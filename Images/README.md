@@ -1,1 +1,1 @@
-
+This contains a selection of lung CT scan images used to evaluate the accuracy of a machine learning model designed to classify tumors. The model predicts whether the scans indicate no tumor, a benign tumor, or a malignant tumor. These images serve as test cases to assess the model's performance and ensure its reliability in tumor detection. By analyzing the results, we aim to refine the model and enhance its ability to support accurate diagnostics in medical imaging.
