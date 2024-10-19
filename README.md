@@ -6,9 +6,9 @@ This project aims to develop a Convolutional Neural Network (CNN) model for earl
 ## Dataset
 The dataset used for this project consists of CT scan images sourced from medical imaging datasets, such as Kaggle and IQ-OTHNCCD. These datasets provide annotated data essential for training and validating CNNs.
 * Class distribution in the training set:
-    ** Normal: 3300 images
-    ** Benign: 2300 images
-    ** Malignant: 3100 images
+    * Normal: 3300 images
+    * Benign: 2300 images
+    * Malignant: 3100 images
 
 ## Challenges Addressed
 * Automation and Efficiency: Leveraging AI to automate the tumor detection process, reducing manual interpretation.
