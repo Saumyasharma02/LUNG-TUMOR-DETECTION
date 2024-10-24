@@ -5,10 +5,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model for earl
 
 ## Dataset
 The dataset used for this project consists of CT scan images sourced from medical imaging datasets, such as Kaggle and IQ-OTHNCCD. These datasets provide annotated data essential for training and validating CNNs.
-* Class distribution in the training set:
-    * Normal: 3300 images
-    * Benign: 2300 images
-    * Malignant: 3100 images
+This Dataset includes a total of 1190 CT scan images.
 
 ## Challenges Addressed
 * Automation and Efficiency: Leveraging AI to automate the tumor detection process, reducing manual interpretation.
@@ -31,7 +28,7 @@ The model is based on a deep Convolutional Neural Network (CNN) model using Kera
 The training process shows a consistent decrease in loss and an increase in accuracy over the epochs.
 
 ## Model Performance
-* Validation Accuracy: Peaked at 94.47%
+* Validation Accuracy: Peaked at 98.30%
 * Confusion Matrix: Indicates strong performance across all categories (Normal, Benign, Malignant).
 
 ## Results
